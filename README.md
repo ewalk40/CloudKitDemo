@@ -1,5 +1,3 @@
-# FILES WILL BE UP LATER TODAY
-
 # CloudKitDemo
 
 [![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/swift)
